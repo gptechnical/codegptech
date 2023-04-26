@@ -19,7 +19,7 @@ const AppProvider = ({ children }) => {
       type: "HOME_UPDATE",
       payload: {
         name: "Gourav Prajapati",
-        image: "./images/hero.svg",
+        image: "./images/hero1.png",
       },
     });
   };

@@ -71,7 +71,7 @@ const Wrapper = styled.section`
       font-size: 1.4rem;
 
       &:hover {
-        background-color: rgb(98 84 243);
+        background-color: #9A62DD;
         color: #fff;
       }
     }
